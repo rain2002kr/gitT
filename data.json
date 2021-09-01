@@ -1,0 +1,52 @@
+{
+    "items":[
+        {
+            "id" : "1",
+            "title" : "삼산 우체국, 삼산동 최고의 편의시설",
+            "price" : "60,000원",
+            "lat" : 37.51183513410301, 
+            "lng" : 126.73659213531626,
+            "imgUrl" : "https://i.picsum.photos/id/145/200/300.jpg?hmac=mIsOtHDzbaNzDdNRa6aQCd5CHCVewrkTO5B1D4aHMB8"
+        },
+        {
+            "id" : "2",
+            "title" : "삼산 체육관, 체육 편의시설 모두 이곳에 ",
+            "price" : "75,000원",
+            "lat" : 37.5077244935793,
+            "lng" : 126.73778303619032,
+            "imgUrl" : "https://i.picsum.photos/id/1001/200/300.jpg?hmac=nQhEVl6C7qyfiRmcIe41BohR4WBcN1yhONnlCJryahU"
+        },
+        {
+            "id" : "3",
+            "title" : "상동 호수공원, 파크장 및 피크닉 장소로 최고 입니다. ",
+            "price" : "15,000원",
+            "lat" : 37.5077244935793,
+            "lng" : 126.73778303619032 ,
+            "imgUrl" : "https://i.picsum.photos/id/784/200/300.jpg?hmac=LIWlcHgxQH79XHKNji8Jin_KakntjYyd9VXyckNYFbE"
+        },
+        {
+            "id" : "4",
+            "title" : "모텔 킹, 삼산동 최고의 편의시설",
+            "price" : "34,000원",
+            "lat" : 37.508362806636754,
+            "lng" : 126.73423179166463,
+            "imgUrl" : "https://i.picsum.photos/id/145/200/300.jpg?hmac=mIsOtHDzbaNzDdNRa6aQCd5CHCVewrkTO5B1D4aHMB8"
+        },
+        {
+            "id" : "5",
+            "title" : "천재 수학, 체육 편의시설 모두 이곳에 ",
+            "price" : "25,000원",
+            "lat" : 37.51308615361331,
+            "lng" :  126.73634537219668 ,
+            "imgUrl" : "https://i.picsum.photos/id/1001/200/300.jpg?hmac=nQhEVl6C7qyfiRmcIe41BohR4WBcN1yhONnlCJryahU"
+        },
+        {
+            "id" : "6",
+            "title" : "이보영 영어교실, 파크장 및 피크닉 장소로 최고 입니다. ",
+            "price" : "15,000원",
+            "lat" : 37.51181811324431, 
+            "lng" : 126.73878081780184 ,
+            "imgUrl" : "https://i.picsum.photos/id/784/200/300.jpg?hmac=LIWlcHgxQH79XHKNji8Jin_KakntjYyd9VXyckNYFbE"
+        }
+    ]
+}
